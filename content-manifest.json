@@ -1,0 +1,409 @@
+{
+  "site": "Midtown Dental",
+  "source": "https://midtowndentalbismarck.com/",
+  "generated": "2026-11-18",
+  "routes": [
+    {
+      "path": "/",
+      "title": "Midtown Dental | Serving Bismarck and the surrounding community",
+      "headings": [
+        "Serving Bismarck and the surrounding community",
+        "Patient Care",
+        "Cutting Edge Technology",
+        "Our Services",
+        "Rate us on Google",
+        "Directions"
+      ],
+      "sections": [
+        "Hero",
+        "Practice values",
+        "Services",
+        "Dentists",
+        "Insurance & payments",
+        "Google reviews",
+        "Location & hours",
+        "FAQ"
+      ]
+    },
+    {
+      "path": "/about-us",
+      "title": "About Us | Midtown Dental",
+      "headings": [
+        "About Us",
+        "Patient Care",
+        "Cutting Edge Technology",
+        "Friendly Staff",
+        "Rate us on Google",
+        "Directions"
+      ],
+      "sections": [
+        "Page hero",
+        "Our story",
+        "Practice values",
+        "Practice gallery",
+        "Patient promise",
+        "Location & hours"
+      ]
+    },
+    {
+      "path": "/meet-our-dentists",
+      "title": "Meet Our Dentists | Midtown Dental",
+      "headings": [
+        "Meet Our Dentists",
+        "Dr. Andrew Schmid",
+        "Dr. Madison Morrell"
+      ],
+      "sections": [
+        "Page hero",
+        "Dr. Andrew Schmid",
+        "Dr. Madison Morrell",
+        "Care philosophy",
+        "Book a visit"
+      ]
+    },
+    {
+      "path": "/meet-our-dentists/dr-andrew-schmid",
+      "title": "Dr. Andrew Schmid | Midtown Dental",
+      "headings": [
+        "Dr. Andrew Schmid",
+        "Education",
+        "Community & Memberships",
+        "Outside the Office"
+      ],
+      "sections": [
+        "Profile hero",
+        "Biography",
+        "Education",
+        "Community & memberships",
+        "Outside the office",
+        "Book a visit"
+      ]
+    },
+    {
+      "path": "/meet-our-dentists/dr-madison-morrell",
+      "title": "Dr. Madison Morrell | Midtown Dental",
+      "headings": [
+        "Dr. Madison Morrell",
+        "Education",
+        "Care Philosophy",
+        "Outside the Office"
+      ],
+      "sections": [
+        "Profile hero",
+        "Biography",
+        "Education",
+        "Care philosophy",
+        "Outside the office",
+        "Book a visit"
+      ]
+    },
+    {
+      "path": "/services",
+      "title": "Services | Midtown Dental",
+      "headings": [
+        "Midtown Dental Bismarck Services Offered",
+        "Routine Dental Care",
+        "Periodontal Care",
+        "Cosmetic Dentistry",
+        "Restorative",
+        "Pediatric Dentistry"
+      ],
+      "sections": [
+        "Page hero",
+        "Service explorer",
+        "Routine dental care",
+        "Periodontal care",
+        "Cosmetic dentistry",
+        "Restorative",
+        "Pediatric dentistry",
+        "Care promise",
+        "Book a visit"
+      ]
+    },
+    {
+      "path": "/insurance-and-payment-information",
+      "title": "Insurance and Payment Information | Midtown Dental",
+      "headings": [
+        "Insurance and Payment Information",
+        "Insurance",
+        "Payment Methods",
+        "CareCredit"
+      ],
+      "sections": [
+        "Page hero",
+        "Insurance providers",
+        "Coverage checker",
+        "Payment methods",
+        "CareCredit",
+        "FAQ",
+        "Book a visit"
+      ]
+    },
+    {
+      "path": "/patient-center",
+      "title": "Patient Center | Midtown Dental",
+      "headings": [
+        "Midtown Dental Patient Center",
+        "Appointment Scheduling",
+        "First Visit",
+        "New Patient Forms"
+      ],
+      "sections": [
+        "Page hero",
+        "Appointment scheduling",
+        "First visit checklist",
+        "New patient forms",
+        "FAQ",
+        "Book a visit"
+      ]
+    },
+    {
+      "path": "/contact-us",
+      "title": "Contact Us | Midtown Dental",
+      "headings": [
+        "Contact Us",
+        "Midtown Dental Bismarck",
+        "Rate us on Google",
+        "Directions"
+      ],
+      "sections": [
+        "Page hero",
+        "Contact details",
+        "Contact form",
+        "Hours",
+        "Map & directions",
+        "Book a visit"
+      ]
+    }
+  ],
+  "facts": {
+    "phone": [
+      "(701) 222-1286"
+    ],
+    "email": [
+      "info@midtowndb.com",
+      "NewPatientServices@midtowndb.com"
+    ],
+    "address": [
+      "2000 N 12th St, Bismarck, ND 58501"
+    ],
+    "hours": [
+      "Monday - Wednesday 8am - 5pm",
+      "Thursday 7am - 2pm",
+      "Friday Closed",
+      "Saturday - Sunday Closed"
+    ],
+    "names": [
+      "Dr. Andrew Schmid",
+      "Dr. Madison Morrell"
+    ],
+    "practice": [
+      "Midtown Dental"
+    ],
+    "service_categories": [
+      "Routine Dental Care",
+      "Periodontal Care",
+      "Cosmetic Dentistry",
+      "Restorative",
+      "Pediatric Dentistry"
+    ],
+    "specific_services": [
+      "Dental Cleanings",
+      "X-rays",
+      "Cavity Care",
+      "Oral Cancer Screenings",
+      "Home Care Education",
+      "Periodontal Disease Prevention",
+      "Periodontal Disease Treatment",
+      "Scaling and Root Planing",
+      "Care for Stabilized Periodontal Disease",
+      "Porcelain or Cosmetic Veneers",
+      "Teeth Whitening",
+      "Crowns",
+      "Dental Bridges",
+      "Implants",
+      "Partial or Complete Dentures",
+      "Pediatric Oral Health Consulting",
+      "Pediatric Dental Examination",
+      "Pediatric Dental Cleaning"
+    ],
+    "insurance_providers": [
+      "Delta Dental",
+      "United Concordia",
+      "TDA",
+      "MetLife"
+    ],
+    "payment_methods": [
+      "Cash",
+      "Check",
+      "Discover",
+      "Mastercard",
+      "Visa",
+      "CareCredit"
+    ],
+    "education": [
+      "University of Mary",
+      "University of Creighton School of Dentistry",
+      "Minnesota State University Moorhead"
+    ],
+    "memberships": [
+      "Bismarck Mandan Chamber",
+      "Donated Dental Services program",
+      "American Dental Association",
+      "North Dakota Dental Association",
+      "Spear study club"
+    ],
+    "first_visit": [
+      "new patient forms",
+      "medical history",
+      "list of medications",
+      "insurance card"
+    ],
+    "arrival": [
+      "10 minutes early"
+    ],
+    "credit": [
+      "MINT Brand Marketing"
+    ]
+  },
+  "navigation": {
+    "header": [
+      "/",
+      "/about-us",
+      "/meet-our-dentists",
+      "/services",
+      "/patient-center",
+      "/insurance-and-payment-information",
+      "/contact-us"
+    ],
+    "footer": [
+      "/",
+      "/about-us",
+      "/meet-our-dentists",
+      "/services",
+      "/insurance-and-payment-information",
+      "/patient-center",
+      "/contact-us"
+    ],
+    "external": [
+      "https://www.patientconnect365.com/MicrositeAppointments/RequestAppointment/NorthDakota/Bismarck/58501/Midtown_Dental",
+      "https://swipesimple.com/links/lnk_c90f4603"
+    ]
+  },
+  "assets": [
+    {
+      "src": "assets/docs/new-patient-form.pdf",
+      "type": "document",
+      "bytes": 121204,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/carecredit-payment.png",
+      "type": "image",
+      "bytes": 56435,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/cutting-edge-home.jpg",
+      "type": "image",
+      "bytes": 30058,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/cutting-edge.jpg",
+      "type": "image",
+      "bytes": 37025,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/dr-andrew-schmid.jpg",
+      "type": "image",
+      "bytes": 57271,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/dr-madison-morrell.jpg",
+      "type": "image",
+      "bytes": 48292,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/favicon.png",
+      "type": "image",
+      "bytes": 48461,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/friendly-staff.jpg",
+      "type": "image",
+      "bytes": 44683,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/logo.png",
+      "type": "image",
+      "bytes": 85194,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/og.jpg",
+      "type": "image",
+      "bytes": 48149,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/patient-care-home.jpg",
+      "type": "image",
+      "bytes": 44869,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/patient-care.jpg",
+      "type": "image",
+      "bytes": 53904,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/service-cosmetic.jpg",
+      "type": "image",
+      "bytes": 39160,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/service-pediatric.jpg",
+      "type": "image",
+      "bytes": 39355,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/service-periodontal.jpg",
+      "type": "image",
+      "bytes": 36164,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/service-restorative.jpg",
+      "type": "image",
+      "bytes": 43618,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/service-routine.jpg",
+      "type": "image",
+      "bytes": 74939,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/team-together.jpg",
+      "type": "image",
+      "bytes": 74341,
+      "used_on": []
+    },
+    {
+      "src": "assets/images/waiting-room.jpg",
+      "type": "image",
+      "bytes": 53095,
+      "used_on": []
+    }
+  ]
+}
